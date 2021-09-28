@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Click here](https://your-solution-url.com)
+- Solution URL: [Click here](https://www.frontendmentor.io/solutions/order-summary-component-challenge-hub-PSw4Xh7Cl)
 - Live Site URL: [Click here](https://dazzling-hamilton-43525e.netlify.app/)
 
 ## My process
@@ -43,7 +43,7 @@ Users should be able to:
 
 ### What I learned
 
-```html
+<!-- ```html
 <h1>Some HTML code I'm proud of</h1>
 ```
 
@@ -57,7 +57,7 @@ Users should be able to:
 const proudOfThisFunc = () => {
   console.log('🎉');
 };
-```
+``` -->
 
 ### Useful resources
 
